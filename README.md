@@ -69,7 +69,3 @@ The project includes scripts to manage the data lifecycle:
 *(Placeholder for submission - Project is designed for local execution)*
 Frontend: http://localhost:5173
 
-## 📝 Submission Notes
-- **Completeness**: All 3 phases (Scraper, AI, Frontend) are implemented.
-- **Code Quality**: Modular architecture with separation of concerns (Routes, Models, Scripts).
-- **UI/UX**: Custom dark theme with responsiveness.
